@@ -1,4 +1,4 @@
-# Jquery-multiple-dropdown
+# jQuery Dependent Dropdown for Nepal Address Selection
 A simple and dynamic implementation of dependent multiple dropdown lists using jQuery for Nepal’s administrative hierarchy:
 **Province → District → Municipality → Ward**
 
@@ -9,7 +9,6 @@ Dynamic dependent dropdowns
 - Uses structured array data - No backend required (static version)
 
 🧠 How It Works
-
 Each dropdown depends on the previous selection:
 1. Select Province → loads Districts
 2. Select District → loads Municipalities
